@@ -1,6 +1,0 @@
-{
-  "name": "Shristi Singh - AI Companion",
-  "description": "An emotionally intelligent, warm, and supportive AI companion for meaningful conversations, goals, and daily reflection.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
